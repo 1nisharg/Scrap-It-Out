@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain_core
+python-dotenv
+langchain-community
+langserve
+sse_starlette
+bs4
+faiss-cpu
+langchainhub
+groq
+langchain_groq
+sentence-transformers
+
